@@ -1,13 +1,13 @@
 # PemwebFinalProject
 # 2022C-Kelompok5
 
-Software Requirements Specification
+**Software Requirements Specification**
 
-for
+**for**
 
-Perancangan Website Crafted Merch Customized
+**Perancangan Website Crafted Merch Customized**
 
-Version 1.0 approved
+**Version 1.0 approved**
 
 Prepared by:
 

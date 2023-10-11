@@ -246,11 +246,6 @@ Flowchart sistem pemesanan
 
 <img width="295" alt="Flowchart Sistem Pemesanan" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/8fbb7e72-8963-45b1-9268-e80b5123ea28">
 
-Use Case Diagram
-
-![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/efbfe125-cf55-443b-9aef-4d2015752212)
-
-
 Lampiran C : Penjelasan HTML
 
 a. HTML Halaman Home:

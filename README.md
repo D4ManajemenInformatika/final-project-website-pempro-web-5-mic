@@ -86,7 +86,8 @@ Dalam pengembangan platform "Crafted Merch Customized," berbagai kategori penggu
 
 Tabel 1 Karakteristik Pengguna
 
-IMG
+![tabel 1 karakteristik pengguna](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/13745bfe-a824-4069-8821-fd1bc0205048)
+
 
 2.3. Lingkungan Operasi
 
